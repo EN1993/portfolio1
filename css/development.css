@@ -1,0 +1,17 @@
+main {
+  margin-top: 120px;
+}
+h1,
+h3 {
+  text-align: center;
+  color: var(--secondary-color);
+}
+
+.rainydays,
+.csm,
+.word-travel {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 25px auto;
+}
