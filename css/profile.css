@@ -1,5 +1,6 @@
 main {
   margin-top: 120px;
+  flex-grow: 1;
 }
 h1,
 h2,

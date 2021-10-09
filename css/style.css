@@ -1,6 +1,8 @@
 body {
   margin: 0 auto;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 
   font-family: "Sulphur Point", sans-serif, Verdana, Tahoma, sans-serif;
 }
